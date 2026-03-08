@@ -1,0 +1,17 @@
+[
+  {"event_type": "cpi", "event_date": "2022-06-15", "title": "US CPI +1.0% MoM", "description": "CPI print significantly above consensus.", "region": "US", "surprise_magnitude": 0.8, "outcomes": {"24h": "10Y +22bps, S&P -2.9%", "1w": "Fed hiked 75bps"}},
+  {"event_type": "cpi", "event_date": "2023-08-10", "title": "US CPI 0.2% MoM", "description": "CPI cooler than expected.", "region": "US", "surprise_magnitude": -0.3, "outcomes": {"24h": "10Y -15bps, S&P +0.8%", "1w": "Rates eased"}},
+  {"event_type": "fed", "event_date": "2022-03-16", "title": "Fed hikes 25bps", "description": "First hike of cycle.", "region": "US", "outcomes": {"24h": "2Y +15bps, DXY +0.5%", "1w": "Equities rallied"}},
+  {"event_type": "fed", "event_date": "2021-11-03", "title": "Fed tapers QE", "description": "Taper announced $15B/month.", "region": "US", "outcomes": {"24h": "EM FX -0.8%", "1w": "EM bonds sold off"}},
+  {"event_type": "geopolitical", "event_date": "2020-03-23", "title": "Fed unlimited QE", "description": "Pandemic response.", "region": "US", "outcomes": {"24h": "S&P +9.4%", "1w": "Risk assets rallied"}},
+  {"event_type": "cpi", "event_date": "2022-09-13", "title": "US CPI 0.1% MoM", "description": "Inflation still hot, core sticky.", "region": "US", "surprise_magnitude": 0.2, "outcomes": {"24h": "10Y +8bps", "1w": "Fed 75bps"}},
+  {"event_type": "central_bank", "event_date": "2023-07-26", "title": "ECB hikes 25bps", "description": "Lagarde signals data-dependent path.", "region": "EU", "outcomes": {"24h": "EUR +0.3%", "1w": "Bunds sold off"}},
+  {"event_type": "data_release", "event_date": "2023-01-06", "title": "US NFP +223k", "description": "Strong jobs, wage growth moderating.", "region": "US", "surprise_magnitude": 0.4, "outcomes": {"24h": "USD bid", "1w": "Rates up"}},
+  {"event_type": "central_bank", "event_date": "2022-12-14", "title": "Fed 50bps hike", "description": "Downshift from 75bps.", "region": "US", "outcomes": {"24h": "2Y -20bps", "1w": "Risk on"}},
+  {"event_type": "cpi", "event_date": "2023-06-13", "title": "US CPI 0.2% MoM", "description": "Core cooling.", "region": "US", "surprise_magnitude": -0.2, "outcomes": {"24h": "10Y -12bps", "1w": "Pause priced"}},
+  {"event_type": "geopolitical", "event_date": "2022-02-24", "title": "Russia invades Ukraine", "description": "Full-scale invasion.", "region": "EMEA", "outcomes": {"24h": "Oil +8%, risk off", "1w": "Safe havens bid"}},
+  {"event_type": "central_bank", "event_date": "2024-03-20", "title": "BOJ ends NIRP", "description": "First rate hike in 17 years.", "region": "APAC", "outcomes": {"24h": "JPY +1%", "1w": "Carry unwind"}},
+  {"event_type": "data_release", "event_date": "2023-11-01", "title": "US ISM Manufacturing 46.7", "description": "Contraction, below 50.", "region": "US", "outcomes": {"24h": "10Y -8bps", "1w": "Soft landing narrative"}},
+  {"event_type": "fed", "event_date": "2024-09-18", "title": "Fed cuts 50bps", "description": "Dual mandate focus.", "region": "US", "outcomes": {"24h": "Risk on", "1w": "Equities up"}},
+  {"event_type": "cpi", "event_date": "2024-01-11", "title": "US CPI 0.3% MoM", "description": "Slightly above consensus.", "region": "US", "surprise_magnitude": 0.1, "outcomes": {"24h": "10Y +5bps", "1w": "March cut odds down"}}
+]

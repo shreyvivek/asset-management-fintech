@@ -1,0 +1,26 @@
+# MIVE Backend — Python 3.11+
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+alembic==1.14.0
+pydantic==2.10.2
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
+httpx==0.28.0
+redis==5.2.0
+dramatiq==1.18.0
+dramatiq-pg==0.1.0
+apscheduler==3.10.4
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+hdbscan==0.8.38
+openai==1.55.3
+pgvector==0.3.6
+structlog==24.4.0
+feedparser==6.0.11
+python-multipart==0.0.17
+jinja2==3.1.4
+pytest==8.3.4
+pytest-asyncio==0.24.0

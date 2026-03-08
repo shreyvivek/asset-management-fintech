@@ -1,0 +1,7 @@
+[
+  {"id":"m1","date":"2022-06-15","type":"cpi","title":"US CPI +1.0% MoM","description":"CPI print significantly above consensus.","outcome_24h":"10Y +22bps, S&P -2.9%","outcome_1w":"Fed hiked 75bps"},
+  {"id":"m2","date":"2023-08-10","type":"cpi","title":"US CPI 0.2% MoM","description":"CPI cooler than expected.","outcome_24h":"10Y -15bps, S&P +0.8%","outcome_1w":"Rates eased"},
+  {"id":"m3","date":"2022-03-16","type":"fed","title":"Fed hikes 25bps","description":"First hike of cycle.","outcome_24h":"2Y +15bps, DXY +0.5%","outcome_1w":"Equities rallied"},
+  {"id":"m4","date":"2021-11-03","type":"fed","title":"Fed tapers QE","description":"Taper announced $15B/month.","outcome_24h":"EM FX -0.8%","outcome_1w":"EM bonds sold off"},
+  {"id":"m5","date":"2020-03-23","type":"geopolitical","title":"Fed unlimited QE","description":"Pandemic response.","outcome_24h":"S&P +9.4%","outcome_1w":"Risk assets rallied"}
+]
